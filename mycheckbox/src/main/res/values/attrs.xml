@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCheckBox">
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="colorChecked" format="color"/>
+        <attr name="colorUnchecked" format="color"/>
+        <attr name="text" format="string"/>
+    </declare-styleable>
+
+</resources>
